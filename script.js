@@ -5,3 +5,4 @@ const b =60;
 const abc = 45;
 const xyz = 69
 const qw = 67
+let vi = 34
